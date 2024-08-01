@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JS, JQuery, PHP, frontend frameworks and WordPress**
 
-- 👨‍💻 You can visit [My Portfolio](https://kusharidesilva.github.io/My-Portfolio/)
+- 👨‍💻 You can visit [My Portfolio](https://kusharidesilva.github.io/My-new-portfolio/)
 
 - 🤓 Always learning **new things**
 
