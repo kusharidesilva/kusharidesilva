@@ -52,7 +52,12 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   </a>
-
+  
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50"/>
+  </a>
+  
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
@@ -88,11 +93,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50"/>
   </a>
 
-  <!-- Vercel -->
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50"/>
-  </a>
-
   <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -126,11 +126,6 @@
   <!-- Adobe Illustrator -->
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" alt="Adobe Illustrator" width="50" height="50"/>
-  </a>
-
-  <!-- Microsoft Project -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-project" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-project.svg" alt="Microsoft Project" width="50" height="50"/>
   </a>
 
 </p>
